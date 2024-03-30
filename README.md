@@ -31,14 +31,13 @@ InfernoNet-2024 is at the forefront of cybersecurity, offering an extensive arra
 
 Utilizing cutting-edge technologies for unparalleled security:
 
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-- ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-<!-- Add more technologies as needed -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 ## 🛠 Installation
 
@@ -53,23 +52,23 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 
 ### PDF Exploit Builder
 - **Description**: Create secure and undetectable PDF documents.
-- [Watch POC Video](https://vimeo.com/929080492)
+- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929080492)
 
 ### Word Exploit Builder
 - **Description**: Generate Word documents that bypass antivirus detection.
-- [Watch POC Video](https://vimeo.com/929082355)
+- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929082355)
 
 ### Excel Exploit Builder
 - **Description**: Craft Excel files with advanced protection features.
-- [Watch POC Video](https://vimeo.com/929083222?share=copy)
+- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929083222?share=copy)
 
 ### PowerPoint Exploit Builder
 - **Description**: Design PowerPoint presentations that are safe and secure.
-- [Watch POC Video](https://vimeo.com/929105125?share=copy)
+- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929105125?share=copy)
 
 ### Photos Exploit Builder
 - **Description**: Protect images with state-of-the-art obfuscation techniques.
-- [Watch POC Video](https://vimeo.com/929106118?share=copy)
+- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929106118?share=copy)
 
 ## 💳 How to Buy & Use
 
