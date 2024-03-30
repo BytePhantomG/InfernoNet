@@ -52,7 +52,8 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 
 ### PDF Exploit Builder
 - **Description**: Our PDF Exploit Builder turns your payloads into undetectable PDF files.
-- [![Watch POC Video](https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png)](https://vimeo.com/929080492)
+- https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png
+- [![Watch POC Video](https://vimeo.com/929080492)
 
 
 
