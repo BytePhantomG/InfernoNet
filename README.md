@@ -53,27 +53,29 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 ### PDF Exploit Builder
 - **Description**: Our PDF Exploit Builder turns your payloads into undetectable PDF files.
 - [Watch PDF Exploit Builder POC](https://vimeo.com/929080492)
-- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/word.png" alt="InfernoNet Platform Overview" width="40%">
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png" alt="InfernoNet Platform Overview" width="40%">
 
 
 
 ### Word Exploit Builder
 - **Description**: Generate Word documents that bypass antivirus detection.
 - [Watch Word Exploit Builder POC](https://vimeo.com/929082355)
-- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png" alt="InfernoNet Platform Overview" width="40%">
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/word.png" alt="InfernoNet Platform Overview" width="40%">
 
 ### Excel Exploit Builder
 - **Description**: The Excel Exploit Builder is perfect for crafting stealthy spreadsheets.
-- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929083222?share=copy)
+- [Watch Excel Exploit Builder POC](https://vimeo.com/929083222?share=copy)
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/excel.png" alt="InfernoNet Platform Overview" width="40%">
 
 ### PowerPoint Exploit Builder
 - **Description**: Utilize the PowerPoint Exploit Builder to embed code within presentations.
-- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929105125?share=copy)
+- [Watch PowerPoint Exploit Builder POC](https://vimeo.com/929105125?share=copy)
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/powerpoint.png" alt="InfernoNet Platform Overview" width="40%">
 
 ### Photos Exploit Builder
 - **Description**: The Photos Exploit Builder helps disguise payloads within images.
-- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929106118?share=copy)
-
+- [Watch Photos Exploit Builder POC](https://vimeo.com/929106118?share=copy)
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/photos.png" alt="InfernoNet Platform Overview" width="40%">
 ## 💳 How to Buy & Use
 
 To access InfernoNet-2024, follow the instructions below to purchase and activate your license:
