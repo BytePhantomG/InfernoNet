@@ -27,18 +27,6 @@ InfernoNet-2024 is at the forefront of cybersecurity, offering an extensive arra
 - Unlimited Build and Spread Files
 - Free Lifetime Updates
 
-## 🎨 Tech Stack
-
-Utilizing cutting-edge technologies for unparalleled security:
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
 ## 🛠 Installation
 
 To get started with InfernoNet-2024, download the platform and follow our step-by-step installation guide:
