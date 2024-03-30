@@ -8,7 +8,9 @@
     <a href="https://t.me/BytePhantomG"><img src="https://img.shields.io/badge/Connect-Telegram-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
----
+<div align="center">
+    <img src="URL_TO_INFERNO_NET_IMAGE" alt="InfernoNet Platform">
+</div>
 
 ## 🚀 Features
 
@@ -18,50 +20,45 @@
 
 ## 🌟 Exploit Features
 
-- **Easy to Use Builder**: Simplify the creation of your exploits with an intuitive builder interface.
-- **Unlimited Build Files & Spread Files**: No limits on the creation and distribution of your files.
-- **Free Lifetime Updates**: Stay ahead with free updates for life.
-- **Bypass All Antivirus & Windows Defender**: Evade detection from all major antivirus solutions and Windows Defender.
-- **Email Provider Bypass**: Bypass Gmail, Outlook, and all other email providers, ensuring deliverability.
-- **Fully Undetectable PDF Exploit**: Craft PDF files that are fully undetectable by security software.
-- **Comprehensive Email Service Provider Bypass**: Effective against all email services including Gmail, Outlook, and others.
-- **Broad Software Support**: Supports most versions of Adobe and Adobe-based PDF readers, as well as Foxit PDF Reader and Editor, including the latest versions.
-- **Best Customer Support 24/7**: Dedicated support team available around the clock.
-
-## 🛠 Installation
-
-Instructions for setting up InfernoNet-2024 can be found in the [Installation Guide](#).
-
-## 💡 Usage
-
-Please see our [User Manual](#) or visit the FAQ section for guidance on using InfernoNet-2024 effectively.
+<!-- Exploit Features Section -->
 
 ## 🎨 Tech Stack
 
-Utilizing cutting-edge technologies for maximum security:
+<!-- Tech Stack Section -->
 
-<div align="center">
+## 🛠 Installation
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+Download the latest version of InfernoNet-2024 and watch the installation guide to get started:
 
-</div>
+- [Download InfernoNet Platform](#DOWNLOAD_LINK)
+- [Installation Guide Video](#INSTALLATION_VIDEO_LINK)
+
+## 💡 Usage
+
+Each InfernoNet product comes with a Proof of Concept (POC) video demonstrating its capabilities:
+
+- **PDF Exploit Builder**: [Watch POC Video](#PDF_EXPLOIT_VIDEO_LINK)
+- **Word Exploit Builder**: [Watch POC Video](#WORD_EXPLOIT_VIDEO_LINK)
+- **Excel Exploit Builder**: [Watch POC Video](#EXCEL_EXPLOIT_VIDEO_LINK)
+- **PowerPoint Exploit Builder**: [Watch POC Video](#POWERPOINT_EXPLOIT_VIDEO_LINK)
+- **Photos Exploit Builder**: [Watch POC Video](#PHOTOS_EXPLOIT_VIDEO_LINK)
+
+## 💳 How to Buy & Use
+
+To purchase and activate your license for InfernoNet-2024, follow the steps in the videos below:
+
+- **Making a Deposit**: [Watch Video](#DEPOSIT_VIDEO_LINK)
+- **Redeeming License Code**: [Watch Video](#REDEEM_LICENSE_CODE_VIDEO_LINK)
 
 ## ⚠️ Disclaimer
 
-InfernoNet-2024 is intended for educational and protective uses only. Misuse for illegal activities is strictly prohibited.
+<!-- Disclaimer Section -->
 
 ## 📞 Support
 
-For support, please contact us via Telegram: <a href="https://t.me/BytePhantomG">BytePhantomG</a>.
+<!-- Support Section -->
 
 ---
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
 </div>
