@@ -51,7 +51,7 @@ To get started with InfernoNet-2024, download the platform and follow our step-b
 InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. Below are our flagship products along with demonstration videos:
 
 ### PDF Exploit Builder
-- **Description**: Create secure and undetectable PDF documents.
+- **Description**: Our PDF Exploit Builder turns your payloads into undetectable PDF files.
 - [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929080492)
 
 
@@ -61,15 +61,15 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 - [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929082355)
 
 ### Excel Exploit Builder
-- **Description**: Craft Excel files with advanced protection features.
+- **Description**: The Excel Exploit Builder is perfect for crafting stealthy spreadsheets.
 - [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929083222?share=copy)
 
 ### PowerPoint Exploit Builder
-- **Description**: Design PowerPoint presentations that are safe and secure.
+- **Description**: Utilize the PowerPoint Exploit Builder to embed code within presentations.
 - [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929105125?share=copy)
 
 ### Photos Exploit Builder
-- **Description**: Protect images with state-of-the-art obfuscation techniques.
+- **Description**: The Photos Exploit Builder helps disguise payloads within images.
 - [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929106118?share=copy)
 
 ## 💳 How to Buy & Use
