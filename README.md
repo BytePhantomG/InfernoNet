@@ -53,13 +53,14 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 ### PDF Exploit Builder
 - **Description**: Our PDF Exploit Builder turns your payloads into undetectable PDF files.
 - [Watch PDF Exploit Builder POC](https://vimeo.com/929080492)
-- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png" alt="InfernoNet Platform Overview" width="40%">
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/word.png" alt="InfernoNet Platform Overview" width="40%">
 
 
 
 ### Word Exploit Builder
 - **Description**: Generate Word documents that bypass antivirus detection.
-- [![Watch POC Video](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)](https://vimeo.com/929082355)
+- [Watch Word Exploit Builder POC](https://vimeo.com/929082355)
+- <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/pdf.png" alt="InfernoNet Platform Overview" width="40%">
 
 ### Excel Exploit Builder
 - **Description**: The Excel Exploit Builder is perfect for crafting stealthy spreadsheets.
