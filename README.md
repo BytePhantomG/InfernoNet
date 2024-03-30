@@ -16,6 +16,18 @@
 - **Protection** - Measures to guard applications from unauthorized access and reverse engineering.
 - **Obfuscation** - Methods to shield codebase against tampering.
 
+## 🌟 Exploit Features
+
+- **Easy to Use Builder**: Simplify the creation of your exploits with an intuitive builder interface.
+- **Unlimited Build Files & Spread Files**: No limits on the creation and distribution of your files.
+- **Free Lifetime Updates**: Stay ahead with free updates for life.
+- **Bypass All Antivirus & Windows Defender**: Evade detection from all major antivirus solutions and Windows Defender.
+- **Email Provider Bypass**: Bypass Gmail, Outlook, and all other email providers, ensuring deliverability.
+- **Fully Undetectable PDF Exploit**: Craft PDF files that are fully undetectable by security software.
+- **Comprehensive Email Service Provider Bypass**: Effective against all email services including Gmail, Outlook, and others.
+- **Broad Software Support**: Supports most versions of Adobe and Adobe-based PDF readers, as well as Foxit PDF Reader and Editor, including the latest versions.
+- **Best Customer Support 24/7**: Dedicated support team available around the clock.
+
 ## 🛠 Installation
 
 Instructions for setting up InfernoNet-2024 can be found in the [Installation Guide](#).
