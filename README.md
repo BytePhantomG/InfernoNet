@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="URL_TO_INFERNO_NET_IMAGE" alt="InfernoNet Platform Overview" width="80%">
+    <img src="https://github.com/BytePhantomG/InfernoNet/blob/main/assets/2.png" alt="InfernoNet Platform Overview" width="80%">
 </p>
 
 <p align="center">
