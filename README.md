@@ -32,7 +32,7 @@ InfernoNet-2024 is at the forefront of cybersecurity, offering an extensive arra
 To get started with InfernoNet-2024, download the platform and follow our step-by-step installation guide:
 
 - [Download InfernoNet Platform](https://www.dropbox.com/scl/fi/8j0zidp8wsbsqprvf6twi/InfernoNet2024.rar?rlkey=gms3b1sqmfjtkwfmhobg1v5ox&dl=0)
-- [Watch Installation Guide Video](#INSTALLATION_VIDEO_LINK)
+- [Watch Installation Guide Video](https://vimeo.com/929350715?share=copy)
 
 ## 📦 Products & Usage
 
@@ -68,8 +68,7 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 
 To access InfernoNet-2024, follow the instructions below to purchase and activate your license:
 
-- [Making a Deposit Video](#DEPOSIT_VIDEO_LINK)
-- [Redeeming License Code Video](#REDEEM_LICENSE_CODE_VIDEO_LINK)
+- [Deposit And Redeeming License Code Video](#REDEEM_LICENSE_CODE_VIDEO_LINK)
 
 ## ⚠️ Disclaimer
 
