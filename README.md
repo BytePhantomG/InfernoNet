@@ -68,7 +68,7 @@ InfernoNet-2024 encompasses a suite of tools, each tailored for specific needs. 
 
 To access InfernoNet-2024, follow the instructions below to purchase and activate your license:
 
-- [Deposit And Redeeming License Code Video](#REDEEM_LICENSE_CODE_VIDEO_LINK)
+- [Deposit And Redeeming License Code Video](https://vimeo.com/929351922?share=copy)
 
 ## ⚠️ Disclaimer
 
